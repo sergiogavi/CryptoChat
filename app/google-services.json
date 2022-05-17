@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "154091504833",
+    "project_id": "cryptochat-a8eab",
+    "storage_bucket": "cryptochat-a8eab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154091504833:android:1689abf45023933c390040",
+        "android_client_info": {
+          "package_name": "edu.fje.cryptoproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154091504833-vrnoebblnc3jku6n02n2tq8msugk1511.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYek0AEF50snozDCVoLcj4g9jHInOVQLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154091504833-vrnoebblnc3jku6n02n2tq8msugk1511.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
